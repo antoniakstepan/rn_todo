@@ -4,9 +4,9 @@
     "slug": "react_native_start",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons8-star-filled-48.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icons8-star-filled-48.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "solution",
+    "githubUrl": "https://github.com/antoniakstepan/rn_todo.git"
   }
 }
